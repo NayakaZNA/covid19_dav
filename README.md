@@ -1,5 +1,4 @@
 # Pendekatan Informatif Menggunakan Python untuk Analisis dan Visualisasi Data COVID-19 Global
-# Markirr™
 - William Anthony (16523109),
 - Muhammad Jafar Fadli (16523137),
 - Zulfaqqar Nayaka Athadiansyah (19623116), dan
